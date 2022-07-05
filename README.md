@@ -3,7 +3,7 @@
 1. Start the gRPC Gateway
 
 ```bash
-go run cmd/gateway/main
+go run cmd/gateway/main.go
 ```
 
 2. Go to `google.com` and execute request from browser console
